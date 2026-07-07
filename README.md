@@ -14,6 +14,16 @@ This project analyzes four years of city bike usage data and visualizes usage pa
 - Data Visualization
 - CSV Data Sources
 
+## Dashboard Preview
+
+![Rental Activity Dashboard](screenshots/dashboard-rental-activity.png)
+
+![User Experince & Energy Dashboard](screenshots/dashboard-user-experience-energy.png)
+
+## Interactive Dashboard
+
+📊 [Open Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2NkZDVlODktMGU2MC00MGIwLWJkMDUtNDAzN2ZhOTFkOTNkIiwidCI6ImI2ZDU2ODFiLTRhNDAtNGQzYS04ZTdiLTAzYTcwZDM5OTFiNiIsImMiOjh9)
+
 ## Features
 
 ### Data Preparation
@@ -53,3 +63,7 @@ This project analyzes four years of city bike usage data and visualizes usage pa
 - Dashboard Design
 - Data Visualization
 - Business Reporting
+
+## Full Report
+
+[Read here the report](report/kuopio-city-bikes-analytics-report.pdf)
